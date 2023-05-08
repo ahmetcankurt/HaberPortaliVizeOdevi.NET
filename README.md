@@ -1,6 +1,6 @@
 # HaberPortaliVizeOdevi.NET
 
-Projenin konusu bir haber portalıdır. Bu portal, haberlerin kaydedilmesi, silinmesi ve yorum yapılması gibi özellikleri barındıran bir web sitesi platformudur. Bu sayede kullanıcılar web sitesinde yer alan haberlere erişebilirler ve yorumlarını paylaşabilirler.
+Projenin konusu bir Haber Portalıdır. Bu portal, haberlerin kaydedilmesi, silinmesi ve yorum yapılması gibi özellikleri barındıran bir web sitesi platformudur. Bu sayede kullanıcılar web sitesinde yer alan haberlere erişebilirler ve yorumlarını paylaşabilirler.
 
 Projenin amacı, haber portalı olarak hizmet veren bir web sitesi oluşturmaktır. Bu site, kullanıcıların haberler hakkında bilgi sahibi olmalarına ve fikirlerini paylaşmalarına olanak tanıyacak şekilde tasarlanmıştır. Sistemde yer alan yetkiler sayesinde, site yöneticileri ve kullanıcılar belirli işlemleri gerçekleştirebilirler.
 
